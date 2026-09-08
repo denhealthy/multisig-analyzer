@@ -2,7 +2,7 @@
 
 Risk scoring helper for Safe (Gnosis Safe) multisigs.
 
-I built this while writing DD memos at Turtle Diligence Council. Multisig threshold and signer identity are the two cheapest checks I run before signing off on a DeFi vault deal, and yet most analysts skip them.
+Multisig threshold and signer identity are two of the cheapest checks to run before signing off on a DeFi vault deal, and yet most reviews skip them.
 
 This script automates both checks. Run it on any Safe address and get a structured report in 5 seconds.
 
@@ -110,10 +110,3 @@ I cover all of these in my DD memos. This script just shortcuts the first 15 min
 
 MIT. Use freely in your own DD pipelines.
 
-## Author
-
-Denis Chaplinskii
-- Diligence Council at [Turtle.xyz](https://turtle.xyz)
-- LinkedIn: [linkedin.com/in/denis-chaplinskii](https://linkedin.com/in/denis-chaplinskii)
-- X: [@iPooda432](https://x.com/iPooda432)
-- Email: chaplinskiidenis@gmail.com
