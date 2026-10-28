@@ -10,7 +10,7 @@ Returns a structured risk report with two scores:
   2. identity_score   share of signers with on-chain identity
 
 Usage:
-    python multisig_analyzer.py 0x9Df30AFb9F11d54a59c0096Fc12dF80E64B167C2
+    python multisig_analyzer.py 0x849D52316331967b6fF1198e5E32A0eB168D039d
     python multisig_analyzer.py 0xabc... --chain arbitrum
 
 Supported chains:

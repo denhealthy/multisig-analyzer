@@ -2,7 +2,7 @@
 
 Risk scoring helper for Safe (Gnosis Safe) multisigs.
 
-Multisig threshold and signer identity are two of the cheapest checks to run before signing off on a DeFi vault deal, and yet most reviews skip them.
+Multisig threshold and signer identity are two of the cheapest checks to run before signing off on a DeFi vault deal, and both are easy to skip.
 
 This script automates both checks. Run it on any Safe address and get a structured report in 5 seconds.
 
@@ -29,7 +29,7 @@ pip install requests
 ## Usage
 
 ```bash
-python multisig_analyzer.py 0x9Df30AFb9F11d54a59c0096Fc12dF80E64B167C2
+python multisig_analyzer.py 0x849D52316331967b6fF1198e5E32A0eB168D039d
 ```
 
 Other chains:
